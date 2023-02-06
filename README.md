@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bhargavabattina
 - 👀 I’m interested in python
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on new job
 - 📫 How to reach me https://www.linkedin.com/in/bhargava-battina-29278016b
 
 <!---
